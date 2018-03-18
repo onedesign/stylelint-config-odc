@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-odc",
+  "version": "1.0.0",
+  "description": "One Design Company shareable config for stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "onedesign",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedesign/stylelint-config-odc.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "stylelint": "^9.0.0",
+    "stylelint-scss": "^2.5.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  }
+}
